@@ -1,5 +1,5 @@
 # OVREVIEW OF THE DNN Training Procedure
-![avatar](./pytorch.png)
+![avatar](/HongYi_Li_ML/pytorch.png)
 
 ## Tensor
 1. Data Type
@@ -33,6 +33,6 @@
     SGD
 
 15. train/eval/test/save and load
-    ![avatar](./training.png)
+    ![avatar](/HongYi_Li_ML/training.png)
 
 ## Pytorch DOC
