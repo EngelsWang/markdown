@@ -21,7 +21,7 @@
 
 12. Dataset & Dataloader
     
-    ![avatar](./dataloader.png)
+    ![avatar](/HongYi_Li_ML/dataloader.png)
 
     shuffler
 
