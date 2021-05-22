@@ -33,6 +33,7 @@
     SGD
 
 15. train/eval/test/save and load
+
     ![avatar](./TRAINING.PNG)
 
 ## Pytorch DOC
