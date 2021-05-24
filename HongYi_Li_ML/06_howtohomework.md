@@ -1,12 +1,12 @@
 # framework ML
-![](framework.PNG)
-![](guild.PNG)
+![](img/framework.PNG)
+![](img/guild.PNG)
 
 ## model bias
 
 ## optimization issue
 
-![](optimis.PNG)
+![](img/optimis.PNG)
 
 ## 正确认识overfitting
 
@@ -17,15 +17,15 @@ Flexible model
    
     fully-connected  && CNN 
 
-    ![](contrainedmodel.PNG) 
+    ![](img/contrainedmodel.PNG) 
 
 ## crossvalidation
 
-![](crossvalidation.PNG)    
+![](img/crossvalidation.PNG)    
 
 N-fold Cross Validation
 
-![](nfold.PNG)
+![](img/nfold.PNG)
 
 ### mismatch
 
@@ -40,13 +40,13 @@ Tayler Series Approximation
 
 Hessian
 
-![](Tayler.PNG)
+![](img/Tayler.PNG)
 
-![](Hessian.PNG)
+![](img/Hessian.PNG)
 
 H may tell us paramiter update direction!
 
-![](h.PNG)
+![](img/h.PNG)
 
 高维local minima 很少
 
@@ -56,17 +56,17 @@ H may tell us paramiter update direction!
 
 small batch v.s. large batch
 
-![](update.PNG)
+![](img/update.PNG)
 
-![](batch&acc.PNG)
+![](img/batch&acc.PNG)
 
 small batch is better on testing data
 
 Flat Minima && Sharp Minima
 
-![](LB&&SB.PNG)
+![](img/LB&&SB.PNG)
 
 # Momentum
 
 Gradient Descent + Momentum
-![](GD+M.PNG)
+![](img/GD+M.PNG)

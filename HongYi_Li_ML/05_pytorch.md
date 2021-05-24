@@ -1,5 +1,5 @@
 # OVREVIEW OF THE DNN Training Procedure
-![avatar](./pytorch.PNG)
+![avatar](img/pytorch.PNG)
 
 ## Tensor
 1. Data Type
@@ -21,7 +21,7 @@
 
 12. Dataset & Dataloader
     
-    ![avatar](./dataloader.PNG)
+    ![avatar](img/dataloader.PNG)
 
     shuffler
 
@@ -34,6 +34,6 @@
 
 15. train/eval/test/save and load
 
-    ![avatar](./TRAINING.PNG)
+    ![avatar](img/TRAINING.PNG)
 
 ## Pytorch DOC
