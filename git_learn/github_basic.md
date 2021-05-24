@@ -1,9 +1,9 @@
 # 添加远程库
-~~~
-git remote add [shortname] [url]
+~~~bash
+$ git remote add [shortname] [url]
 ~~~
 ## 生成SSH Key
-~~~
+~~~bash
 $ ssh-keygen -t rsa -C "youremail@example.com"
 ~~~
 
@@ -14,32 +14,32 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 回到 github 上，进入 Account => Settings（账户配置）。
 
 # 查看当前远程库
-~~~
+~~~bash
 git remote
 git remote -v
 ~~~
 
 # 提取远程仓库
 从远程仓库下载新分支与数据
-~~~
+~~~bash
 git fetch
 ~~~
 从远端仓库提取数据并尝试合并到当前分支
-~~~
+~~~bash
 git merge
 ~~~
 
 # 推送与拉取
-~~~
+~~~bash
 git push [alias] [branch]
 ~~~
 # 删除
-~~~
+~~~bash
 git remote rm [别名]
 ~~~
 
 # 实例
-~~~
+~~~shell
 $ git init                                  # 初始化
 $ git add README.md                         # 添加文件
 $ git commit -m "添加 README.md 文件"        # 提交并备注信息
@@ -51,3 +51,5 @@ $ git commit -m "添加 README.md 文件"        # 提交并备注信息
 $ git remote add origin git@github.com:tianqixin/runoob-git-test.git
 $ git push -u origin master
 ~~~
+# ref
+https://www.runoob.com/git/git-remote-repo.html
