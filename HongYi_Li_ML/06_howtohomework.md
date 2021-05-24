@@ -69,4 +69,25 @@ Flat Minima && Sharp Minima
 # Momentum
 
 Gradient Descent + Momentum
+
 ![](img/GD+M.PNG)
+
+# Training can be difficult even without critical point
+## different parameters needs different learning rate
+
+### root mean square
+
+![](img/rms_lr.PNG)
+## Learning rate adapts dynamincally
+
+### RMSProp
+![](img/RMSProp.PNG) 
+
+Adam : RMSProp + Momentum
+
+## Learning Rate Scheduling
+Learning Rate Decay
+
+Warm Up
+
+![](img/optim_sum.PNG)
