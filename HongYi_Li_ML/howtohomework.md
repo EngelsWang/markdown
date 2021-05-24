@@ -20,9 +20,11 @@ Flexible model
     ![](contrainedmodel.PNG) 
 
 ## crossvalidation
+
 ![](crossvalidation.PNG)    
 
 N-fold Cross Validation
+
 ![](nfold.PNG)
 
 ### mismatch
@@ -30,13 +32,16 @@ N-fold Cross Validation
 
 # when gradient decent is small
 
-local minima && saddle point
+# local minima && saddle point
 
 critical point
 
 Tayler Series Approximation
+
 Hessian
+
 ![](Tayler.PNG)
+
 ![](Hessian.PNG)
 
 H may tell us paramiter update direction!
