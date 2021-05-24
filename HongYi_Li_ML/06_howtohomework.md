@@ -91,3 +91,20 @@ Learning Rate Decay
 Warm Up
 
 ![](img/optim_sum.PNG)
+
+# Batch Normalization
+## Changing Landscape
+![](img/CL.PNG) 
+## Feature Normalization
+standard deviation
+## Batch Normalization
+![](img/bn.PNG)
+Testing
+
+moving average
+
+![](img/ma.PNG)
+
+Internal Covariate Shift?
+
+change erroe surface
