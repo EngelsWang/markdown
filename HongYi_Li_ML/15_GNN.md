@@ -26,6 +26,48 @@ AGGREGATION max,mean,LSTM
 # Spectral
 ## spectral-Based Convolution
 ### N-dim Vector Space
-### Fourier transform 
+### Fourier transform
 ### Discrete time foureier basis
 频率越大相邻两点变化越大
+## Filter
+![](img/SpeGT4.PNG)
+
+![](img/GCNfilter.PNG)
+
+![](img/invFT.PNG) 
+
+NOT LOCALIZE
+## ChebNET
+![](img/chebnet.PNG)
+
+![](img/chebnet1.PNG)
+
+![](img/chebnet2.PNG)
+## GCN
+![](img/GCN.PNG)
+
+![](img/GCN1.PNG)
+
+
+
+# Benchmark Tasks
+1. Graph Classification
+   ### superpixel MINST
+2. Regression
+
+    ZINC molecule graphs dataset
+
+3. Node classification
+
+   ![](img/NodeclassIfication.PNG)
+4. Edge classfication
+
+
+
+## DropEdge
+# Graph Generation
+1. VAE based Model
+1. GAN based Model
+2. AR based Model
+
+## GNN for NLP
