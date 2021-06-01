@@ -11,3 +11,13 @@ ALL KIND OF GAN
 
 1. unconditional generation
    ![](img/unconditionalgeneration.PNG)
+
+## Discriminator
+DESIGN BY YOURSELF
+
+## Basic Idea of GAN
+
+## Algorithm
+![](img/GANalgorithm1.PNG)
+
+![](img/GANalgorithm2 .PNG)
