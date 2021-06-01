@@ -36,3 +36,6 @@ Conv + Pool + Conv + Pool + flatten + fully connected layer
 CNN IS NOT INVARIANT TO SCALING AND ROTATION!!!
 
 ## More Applications
+
+## Semi-supervised 
+filter confident enough
