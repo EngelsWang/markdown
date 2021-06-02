@@ -41,4 +41,25 @@ Sampling is enough
 ### Wasserstein distance
 穷举取最小
 
-![](img/WG0AN.PNG)
+![](img/WGAN.PNG)
+
+## Quality of Image
+
+![](img/QuiltyofImage.PNG)
+
+### Diversity - Mode Collapse
+### Diversity - Mode Dropping
+![](img/diversity.PNG)
+
+### Inception IS
+### Frechet Inception Distance(FID)
+![](img/FID.PNG)
+
+# Conditional GAN
+
+# Learning from unpaired data
+![](img/learnfromud.PNG)
+## Cycle GAN
+![](img/CycleGAN.PNG)
+### text style transfer
+![](img/tst.PNG)
