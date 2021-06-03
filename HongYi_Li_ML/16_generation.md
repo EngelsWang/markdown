@@ -63,3 +63,10 @@ Sampling is enough
 ![](img/CycleGAN.PNG)
 ### text style transfer
 ![](img/tst.PNG)
+
+
+# OLD 
+# PixelRNN
+![](img/pixelRNN.PNG)
+# VAE
+![](img/VAE.PNG)
