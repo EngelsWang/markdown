@@ -12,6 +12,8 @@
 # Neighbor embedding
    ## Manifold Learning
     LLE Locally Linear Embedding
+    Lapascian Eigenmaps
+    T-distributed Stochastic Neighbor Embedding(t-SNE)
 
 # Word Embedding
 1 of N Encoding
