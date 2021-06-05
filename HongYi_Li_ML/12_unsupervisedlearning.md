@@ -9,6 +9,10 @@
         ![](img/PCA1.PNG)
         ![](img/PCA2.PNG)
         ![](img/PCA3.PNG)
+# Neighbor embedding
+   ## Manifold Learning
+    LLE Locally Linear Embedding
+
 # Word Embedding
 1 of N Encoding
 
