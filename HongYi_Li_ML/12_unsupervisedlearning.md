@@ -1,3 +1,14 @@
+# Unsupervised Learning
+1. Clustering
+    ### K-means
+        update class center
+    ### Hierachaical Agglometative Clustering(HAC)
+    ![](img/HAC.PNG)
+    ### Dimenson Redution
+    1. PCA Principle component analysis
+        ![](img/PCA1.PNG)
+        ![](img/PCA2.PNG)
+        ![](img/PCA3.PNG)
 # Word Embedding
 1 of N Encoding
 
