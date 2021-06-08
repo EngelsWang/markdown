@@ -27,3 +27,20 @@ Example: Playing video game
 ## Collection Training Data: Exploration 
 
 DeepMind  PPO
+## Actor-Critic
+Value function
+![](img/mc.PNG)
+![](img/td.PNG)
+![](img/rewardv3_5.PNG)
+![](img/rewardv4.PNG)
+
+# Reward Shaping
+![](img/rewardshaping.PNG)
+### VizDoom
+![](img/VizDoom.PNG)
+
+# No Reward 
+## Lmintaion Learning
+![](img/inverseRL.PNG)
+### IRL
+![](img/GANvsIRL.PNG)
