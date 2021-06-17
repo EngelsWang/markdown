@@ -13,3 +13,14 @@
 1. Multiclass SVM Loss
 2. Softmax Classifier
    ![](img/softmax_SVM.PNG)
+
+# Dynamic Computation Graphs
+# Static Computation Graphs
+1. pytorch
+2. tensorflow
+   keras
+
+   ![](img/keras.PNG)
+
+# Model Parallel vs. Data Parallel
+![](img/mdpd.PNG)
