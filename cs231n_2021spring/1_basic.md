@@ -14,8 +14,21 @@
 2. Softmax Classifier
    ![](img/softmax_SVM.PNG)
 
-# Dynamic Computation Graphs
-# Static Computation Graphs
+# Activation Funtions
+TLDR: In practice:
+- Use ReLU. Be careful with your learning rates
+- Try out Leaky ReLU / Maxout / ELU / SELU
+- To squeeze out some marginal gains
+- Don’t use sigmoid or tanh
+
+# Weight Initialization
+
+# Batch Normalization
+![](img/norm.PNG)
+
+# Computation graphs
+## Dynamic Computation Graphs
+## Static Computation Graphs
 1. pytorch
 2. tensorflow
    keras
