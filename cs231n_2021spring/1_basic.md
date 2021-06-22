@@ -37,3 +37,30 @@ TLDR: In practice:
 
 # Model Parallel vs. Data Parallel
 ![](img/mdpd.PNG)
+
+# Optimiser
+
+## Learning rate schadual
+## First-Order Optimization
+## Second-Order Optimization
+
+![](img/secondorder.PNG)
+### L-BFGS
+
+# Improve Test Error
+
+## Early Stopping
+## Regulariztion
+1. Dropout
+2. Batch Normalize
+3. A common pattern
+   ![](img/acommonpattern.PNG)
+4. Data Augmentation
+5. DropConnect(not good in practice)
+6. Fractional Max Pooling(not good in practice)
+7. Stochastic Depth(not good in practice)
+8. Cutout/Random Crop
+9. Mixup
+
+# Choosing hyperparameters
+![](img/choosinghp.PNG)
